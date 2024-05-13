@@ -5,7 +5,7 @@ A simple SQLite-like database
 An attempt to understand how the relational databases work. I'm following [cstack's db tutorial](https://cstack.github.io/db_tutorial/) in order to build this database.
 
 # TODO
-- [ ] Setting up the REPL
+- [x] Setting up the REPL
 - [ ] A simple SQL compiler and VM
 - [ ] In-memory, append-only, single table database
 - [ ] Introduce tests
